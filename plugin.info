@@ -1,0 +1,11 @@
+#general
+name=""
+description=""
+plugin-version=0
+api-version=0
+plugin.info-version=0.2
+author=""
+LICENSE="MIT"
+
+#dependencies
+1=core^0.1
