@@ -1,11 +1,10 @@
 #general
-name=""
-description=""
+name="ping-me"
+description="Just ping me!"
 plugin-version=0
 api-version=0
 plugin.info-version=0.2
-author=""
+author="seesee010"
 LICENSE="MIT"
 
 #dependencies
-1=core^0.1
